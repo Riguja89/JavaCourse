@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_poo_automovil/1_poo_automovil.iml" filepath="$PROJECT_DIR$/1_poo_automovil/1_poo_automovil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_poo_herencia/1_poo_herencia.iml" filepath="$PROJECT_DIR$/1_poo_herencia/1_poo_herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_appfacturas[cambios_debug_mode]/3_appfacturas[cambios_debug_mode].iml" filepath="$PROJECT_DIR$/3_appfacturas[cambios_debug_mode]/3_appfacturas[cambios_debug_mode].iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoOrdenCOmpra/ProyectoOrdenCOmpra.iml" filepath="$PROJECT_DIR$/ProyectoOrdenCOmpra/ProyectoOrdenCOmpra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/arreglos.iml" filepath="$PROJECT_DIR$/arreglos/arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/holamundo.iml" filepath="$PROJECT_DIR$/.idea/holamundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/holamundojava/holamundojava.iml" filepath="$PROJECT_DIR$/holamundojava/holamundojava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-prueba tecnica/java-prueba tecnica.iml" filepath="$PROJECT_DIR$/java-prueba tecnica/java-prueba tecnica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices/matrices.iml" filepath="$PROJECT_DIR$/matrices/matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paquetes/paquetes.iml" filepath="$PROJECT_DIR$/paquetes/paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_sobrecarga/poo_sobrecarga.iml" filepath="$PROJECT_DIR$/poo_sobrecarga/poo_sobrecarga.iml" />
+    </modules>
+  </component>
+</project>

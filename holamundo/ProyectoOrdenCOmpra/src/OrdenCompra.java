@@ -1,5 +1,4 @@
-import java.text.DateFormat;
-import java.util.Arrays;
+
 import java.util.Date;
 
 public class OrdenCompra {
@@ -74,7 +73,7 @@ public class OrdenCompra {
     @Override
     public String toString() {
 
-        String productosText = "OrdenCompra{" +
+        String productosText = " OrdenCompra{" +
                 "identificador=" + identificador +
                 ", descripcion='" + descripcion + '\'' +
                 ", fecha=" + fecha +
